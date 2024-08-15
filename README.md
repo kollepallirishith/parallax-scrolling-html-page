@@ -14,7 +14,10 @@ Usage
 Add Images: Replace the placeholder images in the <img> tags with your own images.
 Customize Captions: Update the <h3> tags with your desired captions for each slide.
 Adjust Rotation Speed: Modify the animation: rotate 20s infinite linear; line in the CSS to adjust the rotation speed (lower values for faster rotation, higher for slower).
+
+<pre>
 <div class="slide">
   <img src="your-image.jpg" alt="Your Image">
   <h3>Your Caption</h3>
 </div>
+</pre>
